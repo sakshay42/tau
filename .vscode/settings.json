@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/Users/akshay/tau/.venv/bin/python",
+    "jupyter.kernels.excludePythonEnvironments": [
+        "/Users/akshay/tau/.venv/bin/python"
+    ]
+}

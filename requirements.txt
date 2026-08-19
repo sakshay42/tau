@@ -4,3 +4,9 @@ beautifulsoup4
 pydantic
 pandas
 websockets
+python-dotenv
+psycopg[binary]
+pgvector
+sentence-transformers
+scikit-learn
+langgraph
