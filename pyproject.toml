@@ -18,6 +18,7 @@ dependencies = [
     "psycopg[binary]",
     "pgvector",
     "langgraph",
+    "mcp",
 ]
 
 [project.optional-dependencies]

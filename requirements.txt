@@ -10,3 +10,4 @@ pgvector
 sentence-transformers
 scikit-learn
 langgraph
+mcp
